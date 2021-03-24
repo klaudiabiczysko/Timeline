@@ -4,7 +4,7 @@ Authors: Klaudia Biczysko and Justyna Sikora.
 
 
 ## General info
-The gamer gets a year and need to decide if the presented discovery/invention happened before or after.
+The gamer gets a year and needs to decide if the presented discovery/invention happened before or after.
 If user answers correctly, he scores a point and needs to decide if another invention happened before or after the one which was presented beforehand.
 If user's answer is wrong, he gets one more question and needs to decide which answer
 out of three is the correct one.
