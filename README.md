@@ -1,4 +1,4 @@
-### Timeline
+## Timeline
 Timeline - project game for Dialogue Systems at Gothenburg University
 Klaudia Biczysko and Justyna Sikora
 
@@ -12,7 +12,7 @@ If he answers correctly, he does get a half point, but is being saved and contin
 The round consists of 5 basic questions. If user answers correctly for each of them, he wins the round. 
 All inventions happened in XIX and XX century.
 
-##Technicalities
+## Technicalities
 Project is created with:
 * Statecharts
 * Heroku
