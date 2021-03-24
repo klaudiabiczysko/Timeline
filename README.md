@@ -8,8 +8,8 @@ The gamer gets a year and need to decide if the presented discovery/invention ha
 If user answers correctly, he scores a point and needs to decide if another invention happened before or after the one which was presented beforehand.
 If user's answer is wrong, he gets one more question and needs to decide which answer
 out of three is the correct one.
-If he answers correctly, he does get a half point, but is being saved and continue the game. If user cannot answer the second question, he loses. 
-The round consists of 5 basic questions. If user answers correctly for each of them, he wins the round. 
+If he answers correctly, he does get a half point, but is being saved and continues the game. If user cannot answer the second question, he loses. 
+The player needs 5 or more points to win the game.
 All inventions happened in XIX and XX century.
 
 ## Technicalities
