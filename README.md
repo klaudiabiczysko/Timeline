@@ -1,6 +1,6 @@
 ## Timeline
-Timeline - project game for Dialogue Systems at Gothenburg University
-Klaudia Biczysko and Justyna Sikora
+Timeline - project game for Dialogue Systems at Gothenburg University.
+Authors: Klaudia Biczysko and Justyna Sikora.
 
 
 ## General info
